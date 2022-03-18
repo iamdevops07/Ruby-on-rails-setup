@@ -1,7 +1,7 @@
-# Ruby-on-rails-setup
 
 
-On Nginx + passenger for Ubuntu 20.04 Bionic with Postgres Database
+
+Ruby on rails installation with Nginx + passenger for Ubuntu 20.04 Bionic with Postgres Database
 
 Step :-  1 Installation of  Nginx 
 
